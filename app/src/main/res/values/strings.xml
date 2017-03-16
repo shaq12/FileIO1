@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">File I/O</string>
-    <string name="save"></string>
-    <string name="load"></string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
 
 
 
